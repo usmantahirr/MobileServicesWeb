@@ -1,0 +1,11 @@
+{
+  "name": "mobile-services-web",
+  "version": "1.2.7",
+  "description": "Azure's mobile service is depriciated and is no longer maintained, so its not available on npm. This repo just put Mobile service on web",
+  "main": "MobileServices.Web-1.2.7.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Microsoft",
+  "license": "ISC"
+}
